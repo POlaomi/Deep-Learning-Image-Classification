@@ -1,0 +1,5 @@
+Flask
+tensorflow-macos
+tensorflow-metal
+opencv-python
+matplotlib
