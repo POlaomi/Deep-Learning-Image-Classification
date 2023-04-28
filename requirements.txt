@@ -1,6 +1,5 @@
 Flask
-tensorflow-macos
-tensorflow-metal
+tensorflow
 opencv-python
 matplotlib
 numpy
